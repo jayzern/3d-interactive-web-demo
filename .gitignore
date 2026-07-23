@@ -39,3 +39,6 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# CC0 models fetched by scripts/fetch-assets.sh — not checked in
+/public/models
